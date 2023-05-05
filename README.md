@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @srikirangatla
 - 👀 I’m interested in ... Embedded C programming
-- 🌱 I’m currently learning ... CAN and Arduino
-- 💞️ I’m looking to collaborate on ... Arduino projects
+- 🌱 I’m currently learning ... Git CPP Kernels & Driver Development
+- 💞️ I’m looking to collaborate on ... CPP projects
 - 📫 How to reach me ... gatlasrikiran@gmail.com
 
 <!---
